@@ -1,0 +1,33 @@
+1. how do you create a request in Rest assured?
+	Given() To specify baseURl, request path
+	When() sends the request and specify the http methods and resouece
+	Then() To Validation resopnse
+
+2. how do you validate the response?
+	Then() assertions
+
+3. explain maven integration with framework?
+	Need to give dependancies in pom.xml file to generate request plugin, jsonfiles of the projects and it will give structure to the project.
+
+4. how do you update the versions of  maven ?
+	Build tools maven repositories
+
+5. how do you create job or schedule a job in jenkins
+	Go to configuration and click on the build trigger tab
+ 
+6. Rest assured integration with cucumber framework?
+	
+7. how do you take screenshot using selenium?
+8. how do you pass or fail a script in automation ?
+9. How can we send Json Payload in Rest Assured?
+	Need to create pojo class and use it in step definaton class (Contains, implimantation of given when and then
+10. How can we validate Response body in Rest Assured?
+	
+11. How can we validate if multiple resources are there?
+12. How to generate cucumber report?
+	@cucumber.options(plugin={path/filename})
+
+
+
+
+To give the baseURL --> RestAssured.baseURT="";

@@ -1,0 +1,8 @@
+{
+    "id": Payload,
+    "petId": {{preqPetID}},
+    "quantity": 0,
+    "shipDate": "2023-10-16T05:16:27.592Z",
+    "status": "placed",
+    "complete": true
+}

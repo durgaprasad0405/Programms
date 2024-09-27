@@ -1,0 +1,44 @@
+﻿WorkItem ID,Type,Created Date,Title,Description,Acceptance Criteria,Created By,Assigned To,Project ,State,BV,Priority,Severity,Tags,Parent Id
+EPIC_1,Epic,21-08-2024,Flight booking flow is a critical part of travel booking,User should be able to  Signup to the Goibibo site and login with valid Mobile Number and OTP and book a flight by selecting one-way and book a flight by selecting round trip and book a hotel in India,"Given access to goibibo.com, when customer does sign up and login with a valid mobile number and OTP, Then the customer should be able to book a flight one-way and round trip and also book a hotel in India
+1. **signup to goibibo.com site  **: This criterion implies that the user must first be able to access the travel booking platform, goibibo.com using valid full name, mobile number and OTP. This access could be through various devices such as desktops, laptops, tablets, or smartphones, and it requires that the website is up and running without any access issues for the user.
+
+2. **Login to goibibo.com site  **: Once the customer has signed up to the site, the next step is to login to the goibibo site with valid mobile number and OTP
+
+3. **Book a flight by selecting One-Way radio button**: Once the customer has logged in successfully, the next step is to book a flight one-way. This involves entering details in search fields like From(City or Airport), To(City or Airport), Departure, Travellers & class
+The next step is to click on Search Flights Option and click on View Fare. The next step is to click on Book Option and give all the valid details about the traveller. The next step is to proceed with the payment to book the flight 
+ 
+4. **Book a flight by selecting Round Trip radio button**: Once the customer has logged in successfully, the next step is to book a flight for Round Trip. This involves entering details in search fields like From(City or Airport), To(City or Airport), Departure, Return, Travellers & class. The next step is to click on Search Flights Option and click on View Fare. The next step is to click on Book Option and give all the valid details about the traveller. The next step is to proceed with the payment to book the flight 
+
+5. **Book a Hotel by selecting India**: This feature allows user to book a hotel in India. This involves clicking on Hotels button in Goibibo homepage and select radio button as India. The next step is to enter Area/Landmark/Property name in 'Where' search field and select Check-in and Check-out dates and enter number of Guests & Rooms and select Traveller Preference as Couples or goStays and click on Search. The next step is to select the room and proceed with the payment to book the hotel.   ",APT_A,Maneesha,APT Foundary,New,High,High,High,Business,Travel
+Feature_1,Feature,21-08-2024,To signup to goibibo site  ,User should be able to  Signup to the Goibibo site .,"1.Mobile Number should be 10 digits.
+2. Give the valid OTP for that particular mobile number.
+3. Enter Valid Full Name.
+4. Enter Valid emailid.
+
+",APT_A,Maneesha,APT Foundary,New,High,High,High,Business,EPIC_1
+Feature_2,Feature,21-08-2024,To Login to goibibo site  ,User should be able to login to the Goibibo site with valid Mobile Number and Valid OTP.,"1.Mobile Number should be 10 digits.
+2. Give the valid OTP for that particular mobile number.",APT_A,Satyajit,APT Foundary,New,High,High,High,Business,EPIC_1
+Feature_3,Feature,21-08-2024,To Book a Flight for One-Way,User should be able to book a flight by selecting One-Way,"1.From & To field should not be blank                 
+2.User have to select valid City or Airport for both From & To Field  
+3.User have to Select a  Departure Date
+4. User have to Select Travellers and class
+5. User have to click on Search Flights Option
+6. User have to click on View Fare
+7. User have to click on Book Option and give all the valid details about the traveller
+8. user have to proceed with the payment to book the flight 
+ ",APT_A,CS Sunil,APT Foundary,New,High,Medium,High,Business,EPIC_1
+Feature_4,Feature,21-08-2024,To Book a Flight for Round Trip,User should be able to book a flight by selecting Round-Trip,"1.From & To field should not be blank                 
+2.User have to select valid City or Airport for both From & To Field                                               3.User have to Select a  Departure Date
+4. User have to Select a Return Date
+5. User have to Select Travellers and class
+6. User have to click on Search Flights Option
+7. User have to click on View Fare
+8. User have to click on Book Option and give all the valid details about the traveller
+9. user have to proceed with the payment to book the flight 
+ ",APT_A,Pramod,APT Foundary,New,High,Medium,High,Business,EPIC_1
+Feature_5,Feature,21-08-2024,To Book a Hotel for India region,User should be able to book a Hotel by selecting India,"1.Where field should not be blank.
+2. User have to select the Check-in  & Check out date.
+3. User have to select no of guests and no of rooms.
+4. User have to select Traveller Preference    
+5. User have to click on search.
+6. User have to select the room and proceed with the payment to book the hotel.   ",APT_A,Durga,APT Foundary,New,High,Medium,High,Business,EPIC_1

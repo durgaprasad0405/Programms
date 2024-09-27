@@ -1,0 +1,55 @@
+### Feature 1: Signup to the Website and Redirect to Profile Page
+
+- **Title**: Signup to the Website and Redirect to Profile Page
+- **Description**: Users should be able to sign up to the Goibibo site using a valid mobile number and OTP. After successful signup, users are prompted to enter their name and email ID before being redirected to their profile page.
+- **Benefit Hypothesis**: Simplifying the signup process and immediately directing users to their profile page enhances user experience, encouraging them to start booking travel services without delay.
+- **Acceptance Criteria**:
+  1. User clicks on the signup button and enters a valid mobile number.
+  2. User receives and enters a valid OTP.
+  3. Upon successful login, a pop-up appears for the user to enter their name and email ID.
+  4. After clicking the "Let's Go" button, the user is redirected to the profile page.
+  5. Success is measured by the timely execution of the signup process and user redirection to the profile page.
+
+### Feature 2: Login to the Website and Redirect to Profile Page
+
+- **Title**: Login to the Website and Redirect to Profile Page
+- **Description**: Users should be able to log in to the Goibibo site using valid credentials (mobile number and OTP). After successful login, users are redirected to their profile page.
+- **Benefit Hypothesis**: Streamlining the login process and directly taking users to their profile page will likely increase engagement and conversion rates for travel bookings.
+- **Acceptance Criteria**:
+  1. User clicks on the login button and enters a valid mobile number.
+  2. User receives and enters a valid OTP.
+  3. A successful login pop-up message appears.
+  4. The user is redirected to the profile page.
+  5. Success is measured by the login pop-up and timely execution of the redirection.
+
+### Feature 3: Book a Flight (One-way)
+
+- **Title**: User should be able to book a flight by selecting One-way
+- **Description**: Users can book one-way flights by providing all necessary details, including from and to locations, departure date, and traveler & class information.
+- **Benefit Hypothesis**: Offering an intuitive and comprehensive booking process for one-way flights will improve user satisfaction and increase bookings.
+- **Acceptance Criteria**:
+  1. User selects the one-way option under flights and fills in all required fields.
+  2. User clicks on "SEARCH FLIGHTS" and selects a convenient flight.
+  3. After clicking "Book", the user is redirected to review the booking page and enters all valid details.
+  4. Success is measured by the user successfully proceeding to payment after reviewing their booking.
+
+### Feature 4: Book a Flight (Round-trip)
+
+- **Title**: User should be able to book a flight by selecting Round-trip
+- **Description**: Users can book round-trip flights by entering all necessary details, including from and to locations, departure and return dates, and traveler & class information.
+- **Benefit Hypothesis**: Facilitating a seamless booking experience for round-trip flights will lead to higher user engagement and increased flight bookings.
+- **Acceptance Criteria**:
+  1. User selects the round-trip option and inputs all required information.
+  2. After searching for flights, the user selects a flight and proceeds through the booking process.
+  3. The user is redirected to the review booking page, enters all valid details, and proceeds to payment.
+  4. Success is measured by the user completing the booking process and proceeding to payment.
+
+### Feature 5: Book a Hotel for India Region
+
+- **Title**: User should be able to book a Hotel for India region
+- **Description**: Users can book hotels for the India region by entering valid details, including location, check-in and check-out dates, number of guests and rooms, and traveler preferences.
+- **Benefit Hypothesis**: Simplifying the hotel booking process for the India region will likely increase hotel bookings and enhance user satisfaction.
+- **Acceptance Criteria**:
+  1. User selects the hotel option, chooses the India region, and fills in all required details.
+  2. User searches for hotels, selects a room, and proceeds with the payment to book the hotel.
+  3. Success is measured by the user successfully completing the payment and booking process.

@@ -1,0 +1,175 @@
+1. What is the difference between let, var, const in JavaScript?
+
+->var :- 
+	1. It can be updated or re-declared.
+	2. It's an old way to declare a variable.
+	3. It can be deciared without initializations.
+	3. Var variable can be updated and re-declared within its scope.
+->let :-
+	1. It can only be updated and can't be re-declared.
+	2. It's a new way to declare a variable introduced in ES6.
+	3. It can be deciared without initializations.
+	4. Let variable can be updated but not re-declared.
+->let :-
+	1. It can't be updated or re-declared.
+	2. It's also a new way to declare a variable,which introduced in ES6.
+	3. Cannot be deciared without initializations.
+	4. const variable neither be updated nor re-declared.
+
+2. What are the various data types that exist in JavaScript?
+
+	1. Number :- this data type is used to represent numerical values. Numbers can be integers (whole no) or floating-point no(decimal no).
+	2. String :- This data type represent textual dat. String sre sequences of characters enclosed in quotes (either single or double).
+	3. Boolean :- This data type is used to represent ogical values. Boolean values can be either true or false.
+	4. Undefined :- This data type represents a variable that has not been assigned a value.
+	5. Null :- This data type represent a deliberate absence of any object value.
+	6. Object :- This data type represent complex data structures, including arrays, functions and object.
+	7. Symbol:- This data type represent unique values that can be used as object keys.
+
+3. What are Global, function, block scopes of a variable in JavaScript?
+
+Global scope :-
+	Variables declared outside of all function are known as global variables and in the global scope. Global variables are accessible anywhere in the 	program.
+Function scope :-
+	Variables that are declared inside a function are known as local variables and in the function scope. Local variables are accessible anywhere inside 	the function.
+Block scope :-
+	Variables that is declared inside a specific block and can't be accesed outside of that block. In order ta access tha variables of that specific 	block, we need to create an object for it.
+
+4. How do you create an array and object in Javascript?
+
+Creating an Array :-
+	To create an array , you can use square bracket [] and optionally initialize with its value.
+		ex: let mobiles = [ 'Lava', 'Vivo', 'Mi'] ;
+Creating an Object :-
+	To create an object, you can use curly braces {} and define key-value pairs.
+		ex: let empDetails = {firstName: "Kanna”, age: 16};
+
+5. What are the built-in methods in Javascript?
+
+Number methods :-
+	The Number object contains only the default methods that are part of every object defintion.
+	1. constructor()-> Returns the function that created this object instance. By default this is the Number object.
+	2. toExponential()-> Forces a number to display in exponential notation, even if the number is in the range in which javascript normally uses 			standards notation.
+	3. toFixed()-> Formats a number with a specific number of digits to the right of the decimal.
+	4. toString()-> Returns the string representation of the number's value.
+	5. valueOf()-> Returns the number's value.
+Boolean methods :-
+	Here is a list of each method and its description.
+	1. toSource()-> Returns a string containing the source of the Boolean object,you can use this string to create an equivalent object.
+	2. toString()-> Returns a string of either "true" or "false" depending upon the value of the object.
+	3. valueOf()-> Returns the primitive value of the Boolean object.
+String methods :-
+	Here is a list of each method and its description.
+	1. charAt()->  Returns the character at the specified index.
+	2. indexOf()-> Returns the index within the calling String object of the first occurrence of the specified value, or -1 if not found.
+	3. lastIndexOf()-> Returns the index within the calling String object of the last occurrence of the specified value, or -1 if not found.
+	4. length()-> Returns the length of the string.
+	5. match()-> Used to match a regular expression against a string.
+	6. replace()-> Used to find a match between a regular expression and a string, and to replace the matched substring with a new substring.
+	7. search()-> Executes the search for a match between a regular expression and a specified string.
+	8. slice()-> Extracts a section of a string and returns a new string.
+	9. split()-> Splits a String object into an array of strings by separating the string into substrings.
+	10. substr()-> Returns the characters in a string beginning at the specified location through the specified number of characters.
+	11. substring()-> Returns the characters in a string between two indexes into the string.
+	12. toLocaleLowerCase()-> The characters within a string are converted to lower case while respecting the current locale.
+	13. toLocaleUpperCase()-> The characters within a string are converted to upper case while respecting the current locale.
+	14. toLowerCase()-> Returns the calling string value converted to lower case.
+	15. toString()-> Returns a string representing the specified object.
+	16. toUpperCase()-> Returns the calling string value converted to uppercase.
+	17. valueOf()-> Returns the primitive value of the specified object.
+Array methods :-
+	Here is a list of each method and its description.
+	1. forEach()-> Calls a function for each element in the array.
+	2. indexOf()-> Returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found.
+	3. join()-> Joins all elements of an array into a string.
+	4. lastIndexOf()-> Returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found.
+	5. map()-> Creates a new array with the results of calling a provided function on every element in this array.
+	6. pop()-> Removes the last element from an array and returns that element.
+	7. push()-> Adds one or more elements to the end of an array and returns the new length of the array.
+	8. sort()-> Sorts the elements of an array.
+Data methods :-
+	Here is a list of each method and its description.
+	1. Date()-> Returns today's date and time
+	2. getDate()-> Returns the day of the month for the specified date according to local time.
+	3. getDay()-> Returns the day of the week for the specified date according to local time.
+	4. getFullYear()-> Returns the year of the specified date according to local time.
+	5. getHours()-> Returns the hour in the specified date according to local time.
+	6. getMilliseconds()-> Returns the milliseconds in the specified date according to local time.
+	7. getMinutes()-> Returns the minutes in the specified date according to local time.
+	8. getMonth()-> Returns the month in the specified date according to local time.
+	9. getSeconds()-> Returns the seconds in the specified date according to local time.
+	10. setDate()-> Sets the day of the month for a specified date according to local time.
+	11. setFullYear()-> Sets the full year for a specified date according to local time.
+	12. setHours()-> Sets the hours for a specified date according to local time.
+	13. setMilliseconds()-> Sets the milliseconds for a specified date according to local time.
+	14. setMinutes()-> Sets the minutes for a specified date according to local time.
+Math methods :-
+	Here is a list of each method and its description.
+	1. abs()-> Returns the absolute value of a number.
+	2. acos()-> Returns the arccosine (in radians) of a number.
+	3. asin()-> Returns the arcsine (in radians) of a number.
+	4. atan()-> Returns the arctangent (in radians) of a number.
+	5. atan2()-> Returns the arctangent of the quotient of its arguments.
+	6. ceil()-> Returns the smallest integer greater than or equal to a number.
+	7. cos()-> Returns the cosine of a number.
+	8. log()-> Returns the natural logarithm (base E) of a number.
+	9. max()-> Returns the largest of zero or more numbers.
+	10. min()-> Returns the smallest of zero or more numbers.
+	11. pow()-> Returns base to the exponent power, that is, base exponent.
+	12. random()-> Returns a pseudo-random number between 0 and 1.
+
+6. What is the difference between Function declaration and Function expression?
+
+Function Declaration:
+	1. A function declaration also known as a function statement declares a function with a function keyword. The function declaration must have a 			function name.
+	2. Function declaration does not require a variable assignment as they are standalone constructs and they cannot be nested inside a functional 			block.
+	3. These are executed before any other code.
+	4. The function in function declaration can be accessed before and after the function definition.
+	5. Syntax:	function Demo(paramA, paramB) {
+   			 // Set of statements
+			}
+Function Expression:
+	1. A function Expression is similar to a function declaration without the function name.
+	2. Function expressions can be stored in a variable assignment.
+	3. Function expressions load and execute only when the program interpreter reaches the line of code.
+	4. The function in function expression can be accessed only after the function definition.
+	5. Syntax:	var Demo1= function(paramA, paramB) {
+    			// Set of statements
+			}
+
+7. What is arrow function in JavaScript?
+
+	Arrow function {()=>} is concise way of writing Javascript functions in shorter way. Arrow functions were introduced in the ES6 version. They make our code more structured and readable.
+
+	Arrow functions are anonymous functions i.e. functions without a name and are not bound by an identifier. Arrow functions do not return any value and can be declared without the function keyword. They are also called Lambda Functions.
+
+	Syntax:		const Demo2 = () => {
+    			console.log( "Hi All!" );
+			}
+
+8. Difference between “ == “ and “ === “ operators ?
+	
+== Double equals:-
+	1. == is a comparison operator, which transforms the operands having the same type before comparison.
+	2. == in JavaScript is used for comparing two variables, but it ignores the datatype of variable.
+	3. Checks the equality of two operands without considering their type.
+	4. Return true if the two operands are equal. It will return false if the two operands are not equal.
+
+=== Triple equals:-
+	1. === is a strict equality comparison operator in JavaScript, which returns false for the values which are not of a similar type. This operator 		performs type casting for equality. If we compare 2 with “2” using ===, then it will return a false value.
+	2. === is used for comparing two variables, but this operator also checks datatype and compares two values.
+	3. Compares equality of two operands with their types.
+	4. It returns true only if both values and data types are the same for the two variables.
+
+9. What is Callback function?
+
+	1. A callback is a function passed as an argument to another function.
+	2. This technique allows a function to call another function.
+	3. A callback function can run after another function has finished.
+
+10. What are the popular Javascript Array methods: map, filter, find, reduce, and forEach?
+	1. .map() when you want to transform elements in an array.
+	2. .filter() when you want to select a subset of multiple elements from an array..
+	3. .find() When you want to select a single element from an array.
+	4. .reduce() when you want derive a single value from multiple elements in an array.
+	5. .forEach() is great you need to execute a function for each individual element in an array.

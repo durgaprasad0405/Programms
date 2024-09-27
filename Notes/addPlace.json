@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": -38.383494,
+    "lng": 33.427362
+  },
+  "accuracy": 40,
+  "name": "Kanna House",
+  "phone_number": "(+91) 983 893 3937",
+  "address": "Kanna Colony, Kanna Street",
+  "types": [
+    "Kanna park",
+    "Kanna shop"
+  ],
+  "website": "http://Kanna.com",
+  "language": "Telugu-IN"
+}

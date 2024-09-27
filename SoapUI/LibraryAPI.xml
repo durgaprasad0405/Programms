@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope">
+   <soapenv:Body>
+      <ns:addEmployeeResponse xmlns:ns="http://sample.com/reservation/guest/types">
+         <ns:return>true</ns:return>
+      </ns:addEmployeeResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

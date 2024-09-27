@@ -1,0 +1,18 @@
+{
+    "id": payload_id,
+    "category": {
+        "id": payload_categoryId,
+        "name": "payload_categoryName"
+    },
+    "name": "payload_name",
+    "photoUrls": [
+        "payload_photoUrls"
+    ],
+    "tags": [
+        {
+            "id": payload_tagsId,
+            "name": "payload_tagsName"
+        }
+    ],
+    "status": "payload_status"
+}

@@ -1,0 +1,56 @@
+package demo;
+
+import java.util.Iterator;
+
+import file.Payload;
+import io.restassured.path.json.JsonPath;
+
+public class ComplexJsonParse {
+	public static void main(String[] args) {
+		JsonPath js = new JsonPath(Payload.coursePrice());
+		
+		// 1. Print No of courses returned by API
+		int couserCount = js.getInt("courses.size()");
+//		System.out.println(couserCount);
+		
+		// 2. Print Purchase Amount
+		int purchaseAmount = js.getInt("dashboard.purchaseAmount");
+//		System.out.println(purchaseAmount);
+		
+		// 3. Print Title of the first course
+		String coursesTitle = js.getString("courses[0].title");
+//		System.out.println(coursesTitle);
+		
+		// 4. Print All course titles and their respective Prices
+		for (int i = 0; i < couserCount; i++) {
+			String coursesTitle1 = js.getString("courses["+i+"].title");
+			String coursesPrice = js.getString("courses["+i+"].price");
+//			System.out.println(coursesTitle1+"-->"+coursesPrice);
+		}
+		
+		// 5. Print no of copies sold by RPA Course
+		
+		for (int i = 0; i < couserCount; i++) {
+			String coursesTitle2 = js.getString("courses["+i+"].title");
+//			boolean RPA = coursesTitle2.equals("RPA");
+			if (coursesTitle2.equals("RPA")) {
+				int coursesCopies = js.getInt("courses["+i+"].copies");
+//				System.out.println(coursesCopies);
+			}
+		}
+		// 6. Verify if Sum of all Course prices matches with Purchase Amount
+		for (int i = 0; i < couserCount; i++) {
+			String coursesTitle3 = js.getString("courses["+i+"].title");
+//			int coursesPrice1 =	js.getInt("courses["+i+"].price");
+			int sum1 = 0;
+			int total = (js.getInt("courses["+i+"].price"))*(js.getInt("courses["+i+"].copies"));
+			int sum = total+sum1;
+			System.out.println(total);
+			if (sum == js.getInt("dashboard.purchaseAmount")) {
+				System.out.println("Course prices matches with Purchase Amount");
+			} else {
+				System.out.println("Course prices not matches with Purchase Amount");
+			}
+		}
+	}
+}

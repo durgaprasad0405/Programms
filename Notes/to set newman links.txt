@@ -1,0 +1,5 @@
+C:\Users\draghava\AppData\Roaming\npm
+
+C:\Users\draghava\AppData\Roaming\npm\node_modules\newman\bin
+
+C:\Program Files\nodejs

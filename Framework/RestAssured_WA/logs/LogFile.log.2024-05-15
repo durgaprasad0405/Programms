@@ -1,0 +1,2338 @@
+2024-05-15 12:01:14 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 12:01:14 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 12:01:14 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 12:01:14 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:01:14 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:01:14 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:01:14 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:01:14 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:14 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:14 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:14 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 12:01:14 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:14 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 12:01:15 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 12:01:15 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:01:15 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:01:15 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 12:01:15 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:01:15 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 12:01:15 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:15 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:15 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:15 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 12:01:15 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:01:15 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:01:15 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:01:15 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 12:01:18 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 12:01:18 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:01:18 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:01:18 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:01:18 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:01:18 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:01:18 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 12:01:18 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:01:18 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:01:18 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:01:18 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:01:18 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:01:18 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 12:01:18 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:01:18 ERROR WebServicesLog:82 - Error in serviceRedirection method: null
+2024-05-15 12:01:18 ERROR WebServicesLog:83 - Trace: java.lang.reflect.InvocationTargetException
+2024-05-15 12:01:18 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:01:18 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:01:18 ERROR WebServicesLog:256 - Error in getFinalResult method: java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getLastRowNum()" because "utilities.ExcelOps.rSheet" is null
+2024-05-15 12:01:18 ERROR WebServicesLog:257 - Trace: java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getLastRowNum()" because "utilities.ExcelOps.rSheet" is null
+2024-05-15 12:01:18 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:01:18 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:01:18 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:01:18 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 12:01:18 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:01:18 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 12:01:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:01:18 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:01:18 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:01:18 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:18 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 12:01:18 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:01:18 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:01:18 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:01:18 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 12:01:19 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 12:01:19 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:01:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:19 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:01:19 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:01:19 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:01:19 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:01:19 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 12:01:19 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:01:19 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:01:19 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:01:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:01:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:01:19 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 12:01:19 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 12:01:19 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 12:01:19 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 12:02:14 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 12:02:14 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 12:02:14 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 12:02:14 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:02:14 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:02:14 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:02:14 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:02:14 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:14 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:14 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:15 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 12:02:15 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:15 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 12:02:15 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 12:02:15 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:15 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:15 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:02:16 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:02:16 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 12:02:16 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:02:16 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 12:02:16 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:16 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:16 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:16 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 12:02:16 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:02:16 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:02:16 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:02:16 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 12:02:18 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 12:02:18 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:02:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:18 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:18 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:02:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:02:19 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:02:19 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:02:19 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:02:19 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 12:02:19 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:02:19 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:02:19 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:02:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:02:19 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:02:19 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 12:02:19 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:02:19 ERROR WebServicesLog:82 - Error in serviceRedirection method: null
+2024-05-15 12:02:19 ERROR WebServicesLog:83 - Trace: java.lang.reflect.InvocationTargetException
+2024-05-15 12:02:19 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:02:19 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:02:19 ERROR WebServicesLog:256 - Error in getFinalResult method: java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getLastRowNum()" because "utilities.ExcelOps.rSheet" is null
+2024-05-15 12:02:19 ERROR WebServicesLog:257 - Trace: java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getLastRowNum()" because "utilities.ExcelOps.rSheet" is null
+2024-05-15 12:02:19 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:02:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:02:19 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:02:19 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 12:02:19 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:02:19 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 12:02:19 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:02:19 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:02:19 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:02:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 12:02:19 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:02:19 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:02:19 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:02:19 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 12:02:19 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 12:02:19 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:02:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:02:19 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:02:19 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:02:19 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:02:19 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 12:02:19 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:02:19 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:02:19 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:02:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:02:19 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 12:02:19 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 12:02:20 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 12:02:20 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 12:03:22 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 12:03:22 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 12:03:22 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 12:03:22 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:03:22 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:03:22 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:03:22 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:03:22 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:22 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:22 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:23 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 12:03:23 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:23 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 12:03:23 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 12:03:23 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:23 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:23 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:03:24 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:03:24 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 12:03:24 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:03:24 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 12:03:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:24 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:24 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:24 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 12:03:24 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:03:24 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:03:24 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:03:24 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 12:03:27 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 12:03:27 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:03:27 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:27 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:27 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:03:27 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:03:27 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:03:27 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:03:27 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 12:03:27 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:03:27 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:03:27 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:03:27 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:27 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:27 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:03:27 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:03:27 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 12:03:27 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:03:27 INFO  WebServicesLog:40 - Entered in to GetBook method.
+2024-05-15 12:03:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:27 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:27 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:03:27 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:03:27 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:71 - Execution started for TestCase No:1
+2024-05-15 12:03:28 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:03:28 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:03:28 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 12:03:28 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 12:03:28 ERROR WebServicesLog:111 - Exception in GetBook service. Reason:- java.lang.RuntimeException: Unable to invoke no-args constructor for interface oracle.jdbc.proxy.annotation.Post. Register an InstanceCreator with Gson for this type may fix this problem.
+2024-05-15 12:03:28 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 12:03:28 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- Unable to invoke no-args constructor for interface oracle.jdbc.proxy.annotation.Post. Register an InstanceCreator with Gson for this type may fix this problem.
+2024-05-15 12:03:28 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 12:03:28 INFO  WebServicesLog:121 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- Unable to invoke no-args constructor for interface oracle.jdbc.proxy.annotation.Post. Register an InstanceCreator with Gson for this type may fix this problem.
+2024-05-15 12:03:28 INFO  WebServicesLog:151 - Exit from GetBook method.
+2024-05-15 12:03:28 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:03:28 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:03:28 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:03:28 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 12:03:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:03:28 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:03:28 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 12:03:28 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:03:28 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 12:03:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:03:28 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:03:28 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:03:28 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:28 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 12:03:28 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:03:28 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:03:28 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:03:28 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 12:03:29 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 12:03:29 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:03:29 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:29 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:29 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:03:29 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:03:29 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:03:29 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:03:29 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 12:03:29 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:03:29 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:03:29 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:03:29 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:03:29 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:03:29 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 12:03:29 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 12:03:30 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 12:03:30 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 12:05:54 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 12:05:54 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 12:05:54 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 12:05:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:05:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:05:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:05:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:05:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:05:54 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 12:05:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:05:55 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 12:05:55 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 12:05:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:05:55 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:05:55 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 12:05:55 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:05:55 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 12:05:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:05:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:05:55 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 12:05:56 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:05:56 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:05:56 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:05:56 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:05:56 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 12:05:58 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 12:05:58 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:05:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:05:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:05:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 12:05:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 12:05:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:05:59 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:05:59 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:05:59 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:05:59 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 12:05:59 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:05:59 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:05:59 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:05:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 12:05:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:05:59 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:05:59 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 12:05:59 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:05:59 INFO  WebServicesLog:41 - Entered in to GetBook method.
+2024-05-15 12:05:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:05:59 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:05:59 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:05:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:72 - Execution started for TestCase No:1
+2024-05-15 12:05:59 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:05:59 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:05:59 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 12:05:59 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 12:05:59 ERROR WebServicesLog:114 - Exception in GetBook service. Reason:- java.lang.RuntimeException: Unable to invoke no-args constructor for interface oracle.jdbc.proxy.annotation.Post. Register an InstanceCreator with Gson for this type may fix this problem.
+2024-05-15 12:05:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 12:05:59 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- Unable to invoke no-args constructor for interface oracle.jdbc.proxy.annotation.Post. Register an InstanceCreator with Gson for this type may fix this problem.
+2024-05-15 12:05:59 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 12:05:59 INFO  WebServicesLog:124 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- Unable to invoke no-args constructor for interface oracle.jdbc.proxy.annotation.Post. Register an InstanceCreator with Gson for this type may fix this problem.
+2024-05-15 12:05:59 INFO  WebServicesLog:154 - Exit from GetBook method.
+2024-05-15 12:05:59 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:05:59 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:05:59 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:05:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:05:59 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 12:05:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:05:59 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 12:05:59 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 12:05:59 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 12:05:59 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 12:05:59 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 12:05:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 12:06:00 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 12:06:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 12:06:00 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 12:06:00 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 12:06:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:06:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:06:00 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 12:06:00 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 12:06:00 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 12:06:00 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 12:06:00 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 12:06:00 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 12:06:00 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 12:06:00 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 12:06:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:06:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:06:00 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 12:06:00 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 12:06:00 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 12:06:00 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 12:06:00 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 12:06:00 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 12:06:00 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 12:06:00 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 12:06:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 12:06:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 12:06:00 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 12:06:00 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 12:06:00 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 12:06:00 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 14:45:49 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 14:45:49 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 14:45:49 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 14:45:49 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:45:49 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:45:49 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:45:49 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:45:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:49 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:49 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 14:45:49 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:49 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 14:45:50 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 14:45:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:45:50 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:45:50 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 14:45:50 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:45:50 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 14:45:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:50 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:50 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:50 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 14:45:50 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:45:50 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:45:50 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:45:50 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 14:45:53 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 14:45:53 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:45:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:53 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:45:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:45:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:45:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:45:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:45:54 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:45:54 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:45:54 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:45:54 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 14:45:54 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:45:54 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:45:54 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:45:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 14:45:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:45:54 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:45:54 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 14:45:54 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:45:54 INFO  WebServicesLog:42 - Entered in to GetBook method.
+2024-05-15 14:45:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:45:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:45:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:73 - Execution started for TestCase No:1
+2024-05-15 14:45:54 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:45:54 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:45:54 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:45:54 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 14:45:54 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 14:45:54 ERROR WebServicesLog:115 - Exception in GetBook service. Reason:- com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:45:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:54 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 14:45:54 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:45:54 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 14:45:54 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:45:54 INFO  WebServicesLog:155 - Exit from GetBook method.
+2024-05-15 14:45:54 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:45:54 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:45:54 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:45:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 14:45:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:45:55 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:45:55 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 14:45:55 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:45:55 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 14:45:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:45:55 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:45:55 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:45:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 14:45:55 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:45:55 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:45:55 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:45:55 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 14:45:55 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 14:45:55 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:45:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:45:55 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:45:55 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:45:55 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:45:55 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 14:45:55 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:45:55 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:45:55 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:45:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:45:55 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 14:45:55 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 14:45:56 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 14:45:56 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 14:46:27 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 14:46:27 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 14:46:27 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 14:46:27 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:46:27 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:46:27 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:46:27 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:46:27 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:27 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:27 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:28 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 14:46:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:28 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 14:46:28 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 14:46:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:46:29 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:46:29 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 14:46:29 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:46:29 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 14:46:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:29 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:29 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:29 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 14:46:29 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:46:29 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:46:29 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:46:29 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 14:46:32 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 14:46:32 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:46:32 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:46:32 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:46:32 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:46:32 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:32 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:46:32 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:46:33 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:46:33 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:46:33 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:46:33 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 14:46:33 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:46:33 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:46:33 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:46:33 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 14:46:33 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:46:33 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:46:33 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 14:46:33 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:46:33 INFO  WebServicesLog:42 - Entered in to GetBook method.
+2024-05-15 14:46:33 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:33 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:46:33 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:46:33 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:73 - Execution started for TestCase No:1
+2024-05-15 14:46:33 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:46:33 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:46:33 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 14:46:33 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 14:46:33 ERROR WebServicesLog:115 - Exception in GetBook service. Reason:- com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:46:33 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 14:46:33 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:46:33 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 14:46:33 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:46:33 INFO  WebServicesLog:155 - Exit from GetBook method.
+2024-05-15 14:46:33 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:46:33 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:46:33 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:46:33 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:33 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 14:46:33 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:33 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:46:33 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:46:33 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 14:46:33 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:46:33 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 14:46:33 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:34 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:34 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:34 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:46:34 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:46:34 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:34 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:34 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 14:46:34 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:46:34 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:46:34 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:46:34 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:46:34 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 14:46:34 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 14:46:34 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:46:34 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:34 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:34 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:46:34 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:46:34 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:46:34 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:46:34 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 14:46:34 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:46:34 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:46:34 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:46:34 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:34 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:34 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 14:46:34 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 14:46:35 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 14:46:35 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 14:46:54 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 14:46:54 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 14:46:54 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 14:46:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:46:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:46:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:46:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:46:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:54 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 14:46:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:55 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 14:46:55 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 14:46:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:46:55 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:46:55 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 14:46:55 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:46:55 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 14:46:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:55 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 14:46:55 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:46:55 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:46:55 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:46:55 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 14:46:58 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 14:46:58 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:46:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:58 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:46:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:46:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:46:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:46:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:59 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:46:59 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:46:59 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:46:59 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:46:59 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 14:46:59 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:46:59 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:46:59 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:46:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:59 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 14:46:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:46:59 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:46:59 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 14:46:59 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:46:59 INFO  WebServicesLog:42 - Entered in to GetBook method.
+2024-05-15 14:46:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:46:59 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:46:59 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:46:59 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:46:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:46:59 INFO  WebServicesLog:73 - Execution started for TestCase No:1
+2024-05-15 14:46:59 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:46:59 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:46:59 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:46:59 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 14:47:00 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 14:47:00 ERROR WebServicesLog:115 - Exception in GetBook service. Reason:- com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:47:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 14:47:00 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:47:00 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 14:47:00 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:47:00 INFO  WebServicesLog:155 - Exit from GetBook method.
+2024-05-15 14:47:00 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:47:00 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:47:00 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:47:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 14:47:00 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:47:00 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:47:00 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 14:47:00 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:47:00 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 14:47:00 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:47:00 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:47:00 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:47:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 14:47:00 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:47:00 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:47:00 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:47:00 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 14:47:00 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 14:47:00 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:47:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:47:00 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:47:00 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:47:00 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:47:00 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 14:47:00 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:47:00 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:47:00 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:47:00 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:47:00 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 14:47:00 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 14:47:01 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 14:47:01 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 14:52:05 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 14:52:05 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 14:52:05 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 14:52:05 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:52:05 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:52:05 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:52:05 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:52:05 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:05 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:05 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:06 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 14:52:06 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:06 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 14:52:06 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 14:52:06 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:52:07 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:52:07 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 14:52:07 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:52:07 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 14:52:07 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:07 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:07 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:07 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 14:52:07 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:52:07 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:52:07 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:52:07 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 14:52:11 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 14:52:11 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 14:52:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:11 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:52:11 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:52:11 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:52:11 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:52:11 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 14:52:11 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:52:11 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:52:11 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:52:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:11 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:11 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:52:11 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:52:11 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 14:52:11 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:52:11 INFO  WebServicesLog:43 - Entered in to GetBook method.
+2024-05-15 14:52:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:52:12 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:52:12 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:74 - Execution started for TestCase No:1
+2024-05-15 14:52:12 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:52:12 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:52:12 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 14:52:12 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 14:52:12 ERROR WebServicesLog:116 - Exception in GetBook service. Reason:- com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:52:12 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 14:52:12 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:52:12 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 14:52:12 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 3 path $[0]
+2024-05-15 14:52:12 INFO  WebServicesLog:156 - Exit from GetBook method.
+2024-05-15 14:52:12 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:52:12 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:52:12 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:52:12 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 14:52:12 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 14:52:12 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 14:52:12 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 14:52:12 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 14:52:12 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 14:52:12 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 14:52:12 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 14:52:12 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 14:52:12 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 14:52:12 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 14:52:12 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 14:52:12 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 14:52:12 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 14:52:12 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 14:52:12 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 14:52:12 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:12 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 14:52:12 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 14:52:13 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 14:52:13 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 14:52:13 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 14:52:13 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 14:52:13 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 14:52:13 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 14:52:13 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 14:52:13 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 14:52:13 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 14:52:13 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 14:52:13 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 14:52:13 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 16:23:38 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 16:23:38 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 16:23:38 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 16:23:38 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:23:38 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:23:38 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:23:38 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:23:38 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:38 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:38 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:38 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 16:23:39 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:39 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 16:23:39 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 16:23:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:23:39 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:23:39 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 16:23:39 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:23:39 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 16:23:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:39 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:39 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:39 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 16:23:39 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:23:39 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:23:39 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:23:39 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 16:23:42 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 16:23:42 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:23:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:23:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:23:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:23:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:42 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:23:42 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:42 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:42 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:23:42 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:23:42 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:23:42 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:23:42 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 16:23:42 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:23:42 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:23:42 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:23:42 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:42 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:42 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 16:23:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:23:43 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:23:43 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 16:23:43 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:23:43 INFO  WebServicesLog:43 - Entered in to GetBook method.
+2024-05-15 16:23:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:23:43 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:23:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:74 - Execution started for TestCase No:1
+2024-05-15 16:23:43 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:23:43 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:23:43 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 16:23:43 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 16:23:43 ERROR WebServicesLog:120 - Exception in GetBook service. Reason:- java.lang.reflect.InaccessibleObjectException: Unable to make field private char java.text.DecimalFormatSymbols.zeroDigit accessible: module java.base does not "opens java.text" to unnamed module @2d1ef81a
+2024-05-15 16:23:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 16:23:43 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- Unable to make field private char java.text.DecimalFormatSymbols.zeroDigit accessible: module java.base does not "opens java.text" to unnamed module @2d1ef81a
+2024-05-15 16:23:43 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 16:23:43 INFO  WebServicesLog:130 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- Unable to make field private char java.text.DecimalFormatSymbols.zeroDigit accessible: module java.base does not "opens java.text" to unnamed module @2d1ef81a
+2024-05-15 16:23:43 INFO  WebServicesLog:160 - Exit from GetBook method.
+2024-05-15 16:23:43 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:23:43 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:23:43 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:23:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 16:23:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:23:43 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:23:43 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 16:23:43 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:23:43 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 16:23:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:23:43 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:23:43 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:23:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:43 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 16:23:43 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:23:43 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:23:43 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:23:43 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 16:23:44 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 16:23:44 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:23:44 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:44 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:44 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:23:44 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:23:44 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:23:44 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:23:44 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 16:23:44 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:23:44 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:23:44 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:23:44 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:23:44 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:23:44 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 16:23:44 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 16:23:44 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 16:23:44 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 16:31:28 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 16:31:28 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 16:31:28 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 16:31:28 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:31:28 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:31:28 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:31:28 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:31:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:28 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:29 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 16:31:29 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:29 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 16:31:29 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 16:31:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:31:30 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:31:30 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 16:31:30 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:31:30 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 16:31:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:30 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:30 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:30 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 16:31:30 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:31:30 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:31:30 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:31:30 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 16:31:34 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 16:31:34 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:31:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:31:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:31:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:31:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:34 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:31:34 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:34 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:34 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:31:34 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:31:34 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:31:34 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:31:34 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 16:31:34 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:31:34 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:31:34 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:31:34 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:34 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:34 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 16:31:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:31:35 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:31:35 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 16:31:35 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:31:35 INFO  WebServicesLog:45 - Entered in to GetBook method.
+2024-05-15 16:31:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:31:35 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:31:35 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:76 - Execution started for TestCase No:1
+2024-05-15 16:31:35 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:31:35 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:31:35 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 16:31:35 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 16:31:35 ERROR WebServicesLog:124 - Exception in GetBook service. Reason:- com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonArray but was com.google.gson.JsonObject
+2024-05-15 16:31:35 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 16:31:35 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- Expected a com.google.gson.JsonArray but was com.google.gson.JsonObject
+2024-05-15 16:31:35 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 16:31:35 INFO  WebServicesLog:134 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- Expected a com.google.gson.JsonArray but was com.google.gson.JsonObject
+2024-05-15 16:31:35 INFO  WebServicesLog:164 - Exit from GetBook method.
+2024-05-15 16:31:35 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:31:35 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:31:35 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:31:35 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 16:31:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:31:35 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:31:35 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 16:31:35 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:31:35 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 16:31:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:31:35 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:31:35 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:31:35 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:35 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 16:31:35 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:31:35 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:31:35 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:31:35 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 16:31:36 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 16:31:36 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:31:36 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:36 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:36 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:31:36 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:31:36 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:31:36 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:31:36 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 16:31:36 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:31:36 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:31:36 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:31:36 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:31:36 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:31:36 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 16:31:36 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 16:31:36 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 16:31:36 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 16:33:05 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 16:33:05 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 16:33:05 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 16:33:05 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:33:05 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:33:05 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:33:05 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:33:05 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:05 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:05 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:06 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 16:33:06 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:06 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 16:33:06 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 16:33:06 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:33:07 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:33:07 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 16:33:07 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:33:07 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 16:33:07 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:07 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:07 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:07 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 16:33:07 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:33:07 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:33:07 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:33:07 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 16:33:10 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 16:33:10 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:33:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:10 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:33:10 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:33:10 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:33:10 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:33:10 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 16:33:10 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:33:10 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:33:10 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:33:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:10 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:33:10 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:33:10 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 16:33:10 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:33:10 INFO  WebServicesLog:45 - Entered in to GetBook method.
+2024-05-15 16:33:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:10 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:33:10 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:33:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:10 INFO  WebServicesLog:76 - Execution started for TestCase No:1
+2024-05-15 16:33:10 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:33:10 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:33:10 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:33:10 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 16:33:11 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 16:33:11 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:33:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:33:11 INFO  WebServicesLog:44 - Test Case: Test Case: Get Book<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:33:11 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:33:11 INFO  WebServicesLog:146 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:33:11 INFO  WebServicesLog:165 - Exit from GetBook method.
+2024-05-15 16:33:11 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:33:11 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:33:11 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:33:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:PASS
+2024-05-15 16:33:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:33:11 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:33:11 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 16:33:11 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:33:11 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 16:33:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:33:11 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:33:11 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:33:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 16:33:11 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:33:11 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:33:11 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:33:11 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 16:33:11 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 16:33:11 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:33:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:33:11 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:33:11 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:33:11 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:33:11 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 16:33:11 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:33:11 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:33:11 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:33:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:33:11 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 16:33:11 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 16:33:12 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 16:33:12 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 16:34:04 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 16:34:04 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 16:34:04 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 16:34:04 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:04 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:04 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:04 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:04 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:04 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:04 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:05 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 16:34:05 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:05 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 16:34:05 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 16:34:05 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:34:06 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:34:06 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 16:34:06 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:34:06 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 16:34:06 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:06 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:06 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:06 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 16:34:06 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:34:06 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:34:06 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:34:06 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 16:34:08 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 16:34:08 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:34:08 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:08 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:08 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:08 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:08 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:34:08 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:34:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:34:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:34:09 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:34:09 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:34:09 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:34:09 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:34:09 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 16:34:09 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:34:09 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:34:09 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:34:09 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 16:34:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:34:09 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:34:09 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 16:34:09 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:34:09 INFO  WebServicesLog:45 - Entered in to GetBook method.
+2024-05-15 16:34:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:09 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:09 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:09 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:76 - Execution started for TestCase No:1
+2024-05-15 16:34:09 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:34:09 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:34:09 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:34:09 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 16:34:09 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 16:34:09 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:34:09 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:34:09 INFO  WebServicesLog:44 - Test Case: Test Case: Get Book<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:34:09 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:34:09 INFO  WebServicesLog:146 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:34:09 INFO  WebServicesLog:165 - Exit from GetBook method.
+2024-05-15 16:34:09 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:34:09 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:34:09 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:34:09 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:09 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:PASS
+2024-05-15 16:34:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:34:10 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:34:10 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 16:34:10 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:34:10 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 16:34:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:10 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:10 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:10 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 16:34:10 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:34:10 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:34:10 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:34:10 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 16:34:10 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 16:34:10 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:34:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:10 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:34:10 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:34:10 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:34:10 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:34:10 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 16:34:10 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:34:10 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:34:10 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:34:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:10 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 16:34:10 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 16:34:11 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 16:34:11 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 16:34:38 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 16:34:38 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 16:34:38 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 16:34:38 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:38 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:38 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:38 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:38 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:38 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:38 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:38 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 16:34:39 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:39 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 16:34:39 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 16:34:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:34:39 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:34:39 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 16:34:39 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:34:39 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 16:34:39 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:39 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:39 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:39 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 16:34:39 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:34:39 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:34:39 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:34:39 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 16:34:42 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 16:34:42 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:34:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:34:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:34:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:34:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:42 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:34:42 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:42 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:42 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:34:42 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:34:42 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:34:42 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:34:42 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 16:34:42 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:34:42 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:34:42 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:34:42 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:42 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:42 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 16:34:42 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:34:43 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:34:43 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 16:34:43 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:34:43 INFO  WebServicesLog:45 - Entered in to GetBook method.
+2024-05-15 16:34:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:43 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:76 - Execution started for TestCase No:1
+2024-05-15 16:34:43 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:34:43 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:34:43 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 16:34:43 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 16:34:43 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:34:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:34:43 INFO  WebServicesLog:44 - Test Case: Test Case: Get Book<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:34:43 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:34:43 INFO  WebServicesLog:146 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:34:43 INFO  WebServicesLog:165 - Exit from GetBook method.
+2024-05-15 16:34:43 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:34:43 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:34:43 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:34:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:PASS
+2024-05-15 16:34:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:34:43 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:34:43 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 16:34:43 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:34:43 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 16:34:43 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:34:43 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:34:43 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:34:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 16:34:43 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:34:43 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:34:43 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:34:43 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 16:34:43 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 16:34:43 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:34:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:43 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:34:43 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:34:43 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:34:43 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:34:43 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 16:34:43 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:34:43 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:34:43 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:34:43 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:34:44 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:34:44 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 16:34:44 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 16:34:44 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 16:34:44 INFO  WebServicesLog:106 - Exit from executeSuite method
+2024-05-15 16:36:49 INFO  WebServicesLog:26 - Entered in to executeSuite method
+2024-05-15 16:36:49 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-05-15 16:36:49 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-05-15 16:36:49 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:36:49 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:36:49 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:36:49 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:36:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:49 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:50 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-05-15 16:36:50 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:50 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-05-15 16:36:50 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-05-15 16:36:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:50 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:36:50 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:36:50 INFO  WebServicesLog:79 - Execution started for PostBook
+2024-05-15 16:36:50 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:36:50 INFO  WebServicesLog:30 - Entered in to PostBook method.
+2024-05-15 16:36:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:51 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:51 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:51 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-05-15 16:36:51 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:36:51 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:36:51 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:36:51 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:36:51 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-05-15 16:36:53 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-05-15 16:36:53 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:36:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:36:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:36:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:51 - Entered into excelWriteData
+2024-05-15 16:36:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:64 - Exit from excelWriteData.
+2024-05-15 16:36:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:54 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:54 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:36:54 INFO  WebServicesLog:44 - Test Case: Test Case: Post Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:36:54 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:36:54 INFO  WebServicesLog:126 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:36:54 INFO  WebServicesLog:139 - Exit from PostBook method.
+2024-05-15 16:36:54 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:36:54 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:36:54 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:36:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:54 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:54 INFO  WebServicesLog:86 - Execution completed for PostBook. Final result is:PASS
+2024-05-15 16:36:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:36:54 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:36:54 INFO  WebServicesLog:79 - Execution started for GetBook
+2024-05-15 16:36:54 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:36:54 INFO  WebServicesLog:45 - Entered in to GetBook method.
+2024-05-15 16:36:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:36:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:36:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:54 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:54 INFO  WebServicesLog:76 - Execution started for TestCase No:1
+2024-05-15 16:36:54 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:36:54 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:36:54 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:36:54 INFO  WebServicesLog:93 - Entered in to getMethod method.
+2024-05-15 16:36:55 INFO  WebServicesLog:106 - Exit from getMethod method.
+2024-05-15 16:36:55 ERROR WebServicesLog:125 - Exception in GetBook service. Reason:- java.lang.IllegalStateException: Not a JSON Object: [{"book_name":"Prasad","isbn":"RM446","aisle":"2442","author":"RM Prasad"}]
+2024-05-15 16:36:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-05-15 16:36:55 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Get Book<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in GetBook service. Reason:- Not a JSON Object: [{"book_name":"Prasad","isbn":"RM446","aisle":"2442","author":"RM Prasad"}]
+2024-05-15 16:36:55 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-05-15 16:36:55 INFO  WebServicesLog:135 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in GetBook service. Reason:- Not a JSON Object: [{"book_name":"Prasad","isbn":"RM446","aisle":"2442","author":"RM Prasad"}]
+2024-05-15 16:36:55 INFO  WebServicesLog:165 - Exit from GetBook method.
+2024-05-15 16:36:55 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:36:55 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:36:55 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:36:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:86 - Execution completed for GetBook. Final result is:FAIL
+2024-05-15 16:36:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-05-15 16:36:55 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-05-15 16:36:55 INFO  WebServicesLog:79 - Execution started for DeleteBook
+2024-05-15 16:36:55 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-05-15 16:36:55 INFO  WebServicesLog:38 - Entered in to DeleteBook method.
+2024-05-15 16:36:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-05-15 16:36:55 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-05-15 16:36:55 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-05-15 16:36:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:70 - Execution started for TestCase No:1
+2024-05-15 16:36:55 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-05-15 16:36:55 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-05-15 16:36:55 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-05-15 16:36:55 INFO  WebServicesLog:71 - Entered in to deleteMethod method.
+2024-05-15 16:36:55 INFO  WebServicesLog:84 - Exit from deleteMethod method.
+2024-05-15 16:36:55 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-05-15 16:36:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:41 - Entered in to passTest method.
+2024-05-15 16:36:55 INFO  WebServicesLog:44 - Test Case: Test Case: Delete Book Data<br />Result: PASS.<br />Result: PASS.
+2024-05-15 16:36:55 INFO  WebServicesLog:45 - Exit from passTest method.
+2024-05-15 16:36:55 INFO  WebServicesLog:125 - Execution status of Test Case number: '1' is : PASS 
+2024-05-15 16:36:55 INFO  WebServicesLog:145 - Exit from DeleteBook method.
+2024-05-15 16:36:55 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-05-15 16:36:55 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-05-15 16:36:55 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-05-15 16:36:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-05-15 16:36:55 INFO  WebServicesLog:86 - Execution completed for DeleteBook. Final result is:PASS
+2024-05-15 16:36:55 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-05-15 16:36:56 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-05-15 16:36:56 INFO  WebServicesLog:106 - Exit from executeSuite method

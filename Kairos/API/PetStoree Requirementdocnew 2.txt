@@ -1,0 +1,337 @@
+
+Swagger Petstore--> Store Module
+
+
+Epic : Which is used store pet and Access to Petstore orders and maintain the store and pet details
+
+Feature : Which is used to store the order's in the store
+          Which is used to access Access to Petstore orders details
+          Which is used to get an particular order by an ID
+          Which is used to delete an order from the store
+
+
+Use case1:  Returns the pet inventory by status
+
+Method : GET
+Resource : /store/inventory
+EndPoint(url) : https://petstore.swagger.io/v2/store/inventory
+
+Response :
+
+{
+  "sold": integer,
+  "{{PetStatus-Updated}}": integer,
+  "string": integer,
+  "sadf": integer,
+  "pending": integer,
+  "available": integer,
+  "available;pending;sold": integer,
+  "Available": integer,
+  "peric": integer,
+  "qwe": integer
+}
+
+Response headers:
+
+access-control-allow-headers: Content-Type,api_key,Authorization 
+ access-control-allow-methods: GET,POST,DELETE,PUT 
+ access-control-allow-origin: * 
+ content-type: application/json 
+ date: Wed,21 Aug 2024 14:11:25 GMT 
+ server: Jetty(9.2.9.v20150224) 
+
+Status Code :
+
+successful operation : 200
+
+----------------------------------------------------------------------------------------Get Order Details-----------------------------------------------------------------------
+
+Use case1: Creating an new order in a pet
+
+Method : POST
+Resources : /store/order
+EndPoint : https://petstore.swagger.io/v2/store/order
+
+RequestBody:
+{
+  "id": integer($int64),
+  "petId": integer($int64),
+  "quantity": integer($int64),
+  "shipDate": "string($date-time)",
+  "status": "String",
+  "complete": Boolean
+}
+
+Request Header's:
+H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+
+Response Body:
+
+{
+  "id": integer,
+  "petId": integer,
+  "quantity": integer,
+  "shipDate": "string($date-time)",
+  "status": "String",
+  "complete": Boolean
+}
+
+Response Headers:
+access-control-allow-headers: Content-Type,api_key,Authorization 
+ access-control-allow-methods: GET,POST,DELETE,PUT 
+ access-control-allow-origin: * 
+ content-type: application/json 
+ date: Wed,21 Aug 2024 14:26:42 GMT 
+ server: Jetty(9.2.9.v20150224) 
+
+Status Code 
+	
+successful operation : 200
+
+Invalid Operation :400
+
+---------------------------------------------------------------------Get an Order By ID-----------------------------------------------------------------------------------
+
+
+Use case 1: Find purchase order by an ID
+Use case2: For valid response try integer IDs with value >= 1 and <= 10. Other values will generated exceptions
+Use case3: Path Parameter is mandatory
+
+Method : GET
+Resources : /store/order/{order Id}
+EndPoint : https://petstore.swagger.io/v2/store/order/{order Id}
+
+Parameter(Path)/(Order ID)* : ID of pet that needs to be fetched (integer($int64))
+
+
+
+Response Body:
+
+{
+  "id": integer,
+  "petId": integer,
+  "quantity": integer,
+  "shipDate": "string($date-time)",
+  "status": "String",
+  "complete": Boolean
+}
+
+
+Response Headers:
+ access-control-allow-headers: Content-Type,api_key,Authorization 
+ access-control-allow-methods: GET,POST,DELETE,PUT 
+ access-control-allow-origin: * 
+ content-type: application/json 
+ date: Wed,21 Aug 2024 15:37:11 GMT 
+ server: Jetty(9.2.9.v20150224) 
+
+
+Status Code 
+	
+successful operation : 200
+
+Invalid Operation :400
+
+Order not found : 404
+
+-----------------------------------------------------------------Delete a order-------------------------------------------------------------------------------------------
+
+
+Use case1: Delete purchase order by ID
+Use case2: For valid response try integer IDs with positive integer value. Negative or non-integer values will generate API errors
+Use case3: Path parameter is mandatory
+
+Method : Delete
+Resources : /store/order/{order Id}
+EndPoint : https://petstore.swagger.io/v2/store/order/{order Id}
+
+Parameter (Path)/(order Id)*  : Pet id to delete (integer($int64))
+         
+
+Response Body:
+
+{
+  "code": integer,
+  "type": "String",
+  "message": "String"
+}
+
+Response Headers:
+
+access-control-allow-headers: Content-Type,api_key,Authorization 
+ access-control-allow-methods: GET,POST,DELETE,PUT 
+ access-control-allow-origin: * 
+ content-type: application/json 
+ date: Wed,21 Aug 2024 15:42:29 GMT 
+ server: Jetty(9.2.9.v20150224)
+
+Status Code 
+	
+successful operation : 200
+
+Invalid Operation :400
+
+Order not found : 404
+----------------------------------------------------------------------------------------PET Module---------------------------------------------------------------------------------------
+
+Swagger Petstore--> Pet Module
+
+Features: Which is used to store a new pet
+          Which is used to Get a pet by an ID
+          Which is used to delete a Pet 
+
+Use case1: Add a new pet to the store 
+
+Method : POST
+Resource : /pet
+EndPoint(url) : https://petstore.swagger.io/v2/pet
+
+Request Body :
+
+{
+  "id": integer,
+  "category": {
+    "id": integer,
+    "name": "string"
+  },
+  "name": "string",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": integer,
+      "name": "string"
+    }
+  ],
+  "status": "string"
+}
+
+
+Response Body :
+
+{
+  "id": integer,
+  "category": {
+    "id": integer,
+    "name": "string"
+  },
+  "name": "string",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": integer,
+      "name": "string"
+    }
+  ],
+  "status": "string"
+}
+
+
+Response Header :
+
+access-control-allow-headers: Content-Type,api_key,Authorization 
+ access-control-allow-methods: GET,POST,DELETE,PUT 
+ access-control-allow-origin: * 
+ content-type: application/json 
+ date: Thu,22 Aug 2024 05:01:05 GMT 
+ server: Jetty(9.2.9.v20150224) 
+
+
+Status Code :
+
+successful operation : 200
+Invalid input : 405
+
+
+----------------------------------------------------------------------------------GET PET-------------------------------------------------------------------------------------------
+
+Use case1: Find a pet by an ID 
+Use Case2: Path Parameter is mandatory 
+
+Method : GET
+Resource : /pet/{petId}
+EndPoint(url) : https://petstore.swagger.io/v2/pet/{petId}
+
+Parameter (Path)/(Pet id)*: ID of pet to return(integer($int64))
+
+Response Body :
+
+{
+  "id": integer,
+  "category": {
+    "id": integer,
+    "name": "string"
+  },
+  "name": "string",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": integer,
+      "name": "string"
+    }
+  ],
+  "status": "string"
+}
+
+
+Response Headder :
+
+access-control-allow-headers: Content-Type,api_key,Authorization 
+ access-control-allow-methods: GET,POST,DELETE,PUT 
+ access-control-allow-origin: * 
+ content-type: application/json 
+ date: Thu,22 Aug 2024 05:07:40 GMT 
+ server: Jetty(9.2.9.v20150224) 
+
+
+Status Code :
+
+successful operation : 200
+Invalid id supplied : 400
+pet not found : 404
+
+-----------------------------------------------------------------------------------Delete Pet-------------------------------------------------------------------------------------------
+
+Use case: Delete an existing record of Pet
+Use case2: Path parameter is mandatory
+
+Method : Delete
+Resources : /store/order/{order Id}
+EndPoint : https://petstore.swagger.io/v2/store/order/{order Id}
+
+Parameter (Path)*  : Pet id to delete (integer($int64))
+          (Header): api_key (String)
+
+Response Body:
+
+{
+  "code": integer,
+  "type": "String",
+  "message": "String"
+}
+
+Response Headers:
+
+access-control-allow-headers: Content-Type,api_key,Authorization 
+ access-control-allow-methods: GET,POST,DELETE,PUT 
+ access-control-allow-origin: * 
+ content-type: application/json 
+ date: Wed,21 Aug 2024 15:42:29 GMT 
+ server: Jetty(9.2.9.v20150224)
+
+Status Code 
+	
+successful operation : 200
+
+Invalid Operation :400
+
+Order not found : 404
+
+
+

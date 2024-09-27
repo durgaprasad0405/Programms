@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="d8aa4030-cbac-4981-9288-18c875d48ab3" activeEnvironment="Default" name="RahulShetty" resourceRoot="" soapui-version="5.7.1" abortOnError="false" runType="SEQUENTIAL" defaultScriptLanguage="Groovy" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="fc0f277f-bda4-47c3-aca3-53c1a3c7804e" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://rahulshettyacademy.com" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>${#TestSuite#endpoint}</con:endpoint><con:endpoint>${#TestSuite#endpoint}</con:endpoint><con:endpoint>https://rahulshettyacademy.com</con:endpoint></con:endpoints><con:resource name="AddBook" path="/Library/Addbook.php" id="1879c1a2-ce3a-4c12-a147-b0f45d9e4d1b"><con:settings/><con:parameters/><con:method name="AddBook" id="dd009b94-851c-4de8-bb0c-43c656c883f8" method="POST"><con:settings/><con:parameters/><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:representation type="RESPONSE"><con:mediaType>application/json;charset=UTF-8</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:add="https://rahulshettyacademy.com/Library/Addbook.php">add:Response</con:element></con:representation><con:request name="Request 1" id="6b6d028b-70a2-458c-ad4c-abc08d4278a5" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>${#TestSuite#endpoint}</con:endpoint><con:request>{
+
+"name":"Learn Appium Automation with Java",
+"isbn":"bqwer0",
+"aisle":"228",
+"author":"John foe"
+}
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/Addbook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="GetbookByAuthor" path="/Library/GetBook.php" id="77b1e12b-7576-48f2-97fd-b9e43b78fd95"><con:settings/><con:parameters><con:parameter><con:name>AuthorName</con:name><con:value>somename</con:value><con:style>QUERY</con:style><con:default>somename</con:default></con:parameter></con:parameters><con:method name="GetbookByAuthor" id="5fb46d06-2b83-4c87-a798-6accb6d72a2e" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json;charset=UTF-8</con:mediaType><con:status>200</con:status><con:params/><con:element>Response</con:element></con:representation><con:request name="Request 1" id="06e19837-ea3f-4b0c-9251-2b7096e09bd1" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="AuthorName" value="John foe" xmlns="http://eviware.com/soapui/config"/></con:parameters></con:request></con:method></con:resource><con:resource name="DelBook" path="/Library/DeleteBook.php" id="652582a7-0a7c-4399-b61e-7a17be95376e"><con:settings/><con:parameters/><con:method name="DelBook" id="8a21e950-33f5-43f3-9eeb-a51d529f1fa5" method="POST"><con:settings/><con:parameters/><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:representation type="RESPONSE"><con:mediaType>application/json;charset=UTF-8</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:del="https://rahulshettyacademy.com/Library/DeleteBook.php">del:Response</con:element></con:representation><con:request name="Request 1" id="9a6eee80-c08f-4abb-a23b-e99504319bdf" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request>{
+ 
+"ID" : "bqwer0228"
+}
+ 
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/DeleteBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="GetbookByID" path="/Library/GetBook.php" id="9a086fba-4061-4d40-bd51-c16bd937658b"><con:settings/><con:parameters><con:parameter><con:name>ID</con:name><con:value>3389</con:value><con:style>QUERY</con:style><con:default>3389</con:default></con:parameter></con:parameters><con:method name="GetbookByID" id="f2f2530d-7cc1-41ae-bf49-66e83a8fce2c" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json;charset=UTF-8</con:mediaType><con:status>200</con:status><con:params/><con:element>Response</con:element></con:representation><con:request name="Request 1" id="0abb92b0-b59a-4c47-bd70-caaa96e1ca4b" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="ID" value="bqwer0228" xmlns="http://eviware.com/soapui/config"/></con:parameters></con:request></con:method></con:resource></con:interface><con:testSuite id="60adb3f0-c647-4f28-9318-efd006dd9f68" name="SmokeTestSuite"><con:description>TestSuite generated for REST Service [https://rahulshettyacademy.com]</con:description><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="3852064c-e774-4fc4-a811-440d89334624" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="AddBook TestCase" searchProperties="true"><con:description>TestCase generated for REST Resource [AddBook] located at [/Library/Addbook.php]</con:description><con:settings/><con:testStep type="restrequest" name="Request 1" id="5cfd7830-4b6d-46c9-8a3d-779966e3e3fd"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/Addbook.php" methodName="AddBook" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="Request 1" id="6b6d028b-70a2-458c-ad4c-abc08d4278a5" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://216.10.245.166/Library/Addbook.php</con:endpoint><con:request>{
+
+"name":"Learn Appium Automation with Java",
+"isbn":"bqwer0",
+"aisle":"228",
+"author":"John foe"
+}
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/Addbook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:properties/></con:testCase><con:testCase id="6f32f832-797c-4a69-9639-e766b3e5e602" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="GetbookByAuthor TestCase" searchProperties="true"><con:description>TestCase generated for REST Resource [GetbookByAuthor] located at [/Library/GetBook.php]</con:description><con:settings/><con:testStep type="restrequest" name="Request 1" id="c5de7770-fdbe-4370-8604-94a8ddd33fd5"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/GetBook.php" methodName="GetbookByAuthor" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="Request 1" id="06e19837-ea3f-4b0c-9251-2b7096e09bd1" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="AuthorName" value="John foe" xmlns="http://eviware.com/soapui/config"/></con:parameters></con:restRequest></con:config></con:testStep><con:properties/></con:testCase><con:testCase id="e543e133-f726-4e88-81ef-66044c2f9c83" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="DelBook TestCase" searchProperties="true"><con:description>TestCase generated for REST Resource [DelBook] located at [/Library/DeleteBook.php]</con:description><con:settings/><con:testStep type="restrequest" name="Request 1" id="6bcc4d2a-40fe-40ad-a8fd-786b2e5f9765"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/DeleteBook.php" methodName="DelBook" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="Request 1" id="9a6eee80-c08f-4abb-a23b-e99504319bdf" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request>{
+ 
+"ID" : "bqwer0228"
+}
+ 
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/DeleteBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:properties/></con:testCase><con:testCase id="3c408fc7-220b-483a-9703-f5785abe1e79" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="GetbookByID TestCase" searchProperties="true"><con:description>TestCase generated for REST Resource [GetbookByID] located at [/Library/GetBook.php]</con:description><con:settings/><con:testStep type="restrequest" name="Request 1" id="785a9023-1134-4417-820a-f4baadd413af"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/GetBook.php" methodName="GetbookByID" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="Request 1" id="0abb92b0-b59a-4c47-bd70-caaa96e1ca4b" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="ID" value="bqwer0228" xmlns="http://eviware.com/soapui/config"/></con:parameters></con:restRequest></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:testSuite id="0b0d8528-88b6-45c3-ac60-18b3664bf7e9" name="SmokeTestSuiteA"><con:description>TestSuite generated for REST Service [https://rahulshettyacademy.com]</con:description><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="3cec9058-54d3-4ce4-b9f6-1332ab9a494d" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="SoapPost" searchProperties="true"><con:settings/><con:testStep type="restrequest" name="AddBook" id="ea0ebed2-50d0-4744-ac75-6d855f653175"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/Addbook.php" methodName="AddBook" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="AddBook" id="6b6d028b-70a2-458c-ad4c-abc08d4278a5" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>${#TestSuite#endpoint}</con:endpoint><con:request>{
+
+"name":"Learn Appium Automation with Java",
+"isbn":"${#TestCase#ConcatenatedProperty}",
+"aisle":"2289",
+"author":"John foe"
+}
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/Addbook.php</con:originalUri><con:assertion type="Simple Contains" id="0e1ee553-c71b-442f-8133-eeda916992b2" name="Contains" disabled="true"><con:configuration><token>Book Already Exists</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:assertion type="Invalid HTTP Status Codes" id="ca980408-9dee-44b2-94eb-e6fdf324f82b" name="Invalid HTTP Status Codes"><con:configuration><codes>201</codes></con:configuration></con:assertion><con:assertion type="Simple Contains" id="f5c2144e-891f-481d-9df8-a3966c587546" name="IDValidation" disabled="true"><con:configuration><token>bqwer02288</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="transfer" name="Property Transfer" id="175ed5e7-8e00-4747-8538-d0242f7e29d9"><con:settings/><con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false"><con:name>ID Transfer</con:name><con:sourceType>Response</con:sourceType><con:sourceStep>AddBook</con:sourceStep><con:sourcePath>ID</con:sourcePath><con:targetType>ID</con:targetType><con:targetStep>#TestSuite#</con:targetStep><con:type>JSONPATH</con:type><con:targetTransferType>JSONPATH</con:targetTransferType><con:upgraded>true</con:upgraded></con:transfers></con:config></con:testStep><con:testStep type="restrequest" name="GetbookByAuthor" id="ffcc0771-db43-45a6-9e7f-4c329bf77760" disabled="true"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/GetBook.php" methodName="GetbookByAuthor" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="GetbookByAuthor" id="06e19837-ea3f-4b0c-9251-2b7096e09bd1" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="AuthorName" value="John foe" xmlns="http://eviware.com/soapui/config"/></con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="GetbookByID" id="dcf3b3e7-ec60-4187-a069-c987b9d997b1"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/GetBook.php" methodName="GetbookByID" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="GetbookByID" id="0abb92b0-b59a-4c47-bd70-caaa96e1ca4b" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>${#TestSuite#endpoint}</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:assertion type="Invalid HTTP Status Codes" id="786366f8-4fcf-489c-bdbc-221e429442c9" name="Invalid HTTP Status Codes"><con:configuration><codes>201</codes></con:configuration></con:assertion><con:assertion type="Response SLA Assertion" id="34b0b047-2be8-4e7d-b5bf-9db81eac390d" name="Response SLA"><con:configuration><SLA>1900</SLA></con:configuration></con:assertion><con:assertion type="Simple Contains" id="89d4fb8c-c8d7-4a2d-a990-daefaf9c2e4b" name="Contains" disabled="true"><con:configuration><token>2288</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:assertion type="Valid HTTP Status Codes" id="7d7252e1-aca5-4189-8807-fa7e80d8af61" name="Valid HTTP Status Codes"><con:configuration><codes>200</codes></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="ID" value="${#TestSuite#ID}" xmlns="http://eviware.com/soapui/config"/></con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="DelBook" id="62d16718-a076-4651-9810-f5b709230b5b"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/DeleteBook.php" methodName="DelBook" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="DelBook" id="9a6eee80-c08f-4abb-a23b-e99504319bdf" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request>{
+ 
+"ID" : "${#TestSuite#ID}"
+}
+ 
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/DeleteBook.php</con:originalUri><con:assertion type="Valid HTTP Status Codes" id="ac47fc32-aff3-4ac3-a00a-ee9348aaab3f" name="Valid HTTP Status Codes"><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="Simple Contains" id="89d63d2d-c506-4d1b-8eb8-ce9b1cf2e303" name="Contains"><con:configuration><token>book is successfully deleted"</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="Groovy Script" id="63eca836-2103-4568-b45c-c957ab15cad4"><con:settings/><con:config><script>import java.util.Random
+
+// Create a Random object
+Random random = new Random()
+
+// Generate a random integer within a specific range (e.g., 1 to 100)
+int randomInteger = random.nextInt(100) + 1
+
+// Print the random integer
+ ("Random Integer: $randomInteger")
+</script></con:config></con:testStep><con:testStep type="groovy" name="Validations" id="8bdbf77a-0481-4b9e-83a2-d9c6bffe64e8"><con:settings/><con:config><script>import groovy.json.JsonSlurper
+
+
+//def intnum = testRunner.testCase.testSuite.testCases["SoapPost"].getPropertyValue("RandomIntegerProperty") 
+//
+//log.info intnum
+//
+//def code = testRunner.testCase.testSuite.testCases["SoapPost"].getPropertyValue("Code") 
+//
+//log.info code
+//
+//def concat = intnum+code
+//
+//log.info concat
+
+def isbn = testRunner.testCase.testSuite.testCases["SoapPost"].getPropertyValue("ConcatenatedProperty") 
+
+log.info isbn
+
+//isbn.toString(); 
+
+def AddRaw = testRunner.testCase.testSuite.testCases["SoapPost"].testSteps["AddBook"].getPropertyValue("RawRequest")
+
+log.info (AddRaw)
+
+def asile =new JsonSlurper().parseText(AddRaw)
+
+
+
+log.info (asile.aisle)
+
+def aisle = asile.aisle
+
+log.info aisle
+
+def id = isbn+aisle
+
+log.info id
+
+def Getres = testRunner.testCase.testSuite.testCases["SoapPost"].testSteps["AddBook"].getPropertyValue("Response")
+
+log.info Getres
+
+def jsonData =new JsonSlurper().parseText(Getres)
+
+log.info (jsonData.ID)
+
+assert id == jsonData.ID
+
+if ( id  == jsonData.ID)
+{
+	log.info ("    >>>> Validated - Excuted Successfully") 
+}
+
+else 
+{
+	log.info ("    >>>>Not Validated - Excuted Successfully")
+}
+
+
+
+
+ 
+ 
+
+
+   </script></con:config></con:testStep><con:setupScript>
+import java.util.Random
+
+// Create a Random object
+Random random = new Random()
+
+// Generate a random integer within a specific range (e.g., 1 to 100)
+int randomInteger = random.nextInt(100) + 1
+
+// Store the random integer in a variable
+def storedRandomInteger = randomInteger
+
+// Set the random integer as a TestCase-level property
+testRunner.testCase.setPropertyValue("RandomIntegerProperty", storedRandomInteger.toString())
+
+// Print the random integer
+log.info("Random Integer: $storedRandomInteger")
+
+
+// Get the values of the two TestCase-level properties
+
+def property1 = testRunner.testCase.getPropertyValue("RandomIntegerProperty")
+
+def property2 = testRunner.testCase.getPropertyValue("Code")
+
+
+// Concatenate the values
+
+def concatenatedValue = property1 + property2
+
+
+// Set the concatenated value as a new TestCase-level property
+
+testRunner.testCase.setPropertyValue("ConcatenatedProperty", concatenatedValue)
+
+
+
+
+int aislerandomInteger = random.nextInt(100) + 1
+def storedRandomaisleInteger = aislerandomInteger
+testRunner.testCase.setPropertyValue("storedRandomaisleInteger", storedRandomInteger.toString())
+</con:setupScript><con:properties><con:property><con:name>RandomIntegerProperty</con:name><con:value>6</con:value></con:property><con:property><con:name>Code</con:name><con:value>RSA</con:value></con:property><con:property><con:name>ConcatenatedProperty</con:name><con:value>6RSA</con:value></con:property><con:property><con:name>storedRandomaisleInteger</con:name><con:value>6</con:value></con:property></con:properties></con:testCase><con:properties><con:property><con:name>endpoint</con:name><con:value>https://rahulshettyacademy.com</con:value></con:property><con:property><con:name>endpoint1</con:name><con:value>http://216.10.245.166</con:value></con:property><con:property><con:name>ID</con:name><con:value>6RSA2289</con:value></con:property></con:properties><con:setupScript/></con:testSuite><con:properties><con:property><con:name>baseurl</con:name><con:value>https://rahulshettyacademy.com</con:value></con:property></con:properties><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>

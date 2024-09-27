@@ -1,0 +1,6 @@
+{
+    "name": "payload_name",
+    "gender": "payload_gender",
+    "email": "payload_email",
+    "status": "payload_status"
+}

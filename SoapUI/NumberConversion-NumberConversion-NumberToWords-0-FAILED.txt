@@ -1,0 +1,50 @@
+Status: FAILED
+Time Taken: 2387
+Size: 340
+Timestamp: Thu Nov 09 14:15:07 IST 2023
+TestStep: NumberToWords
+
+----------------- Messages ------------------------------
+[Valid HTTP Status Codes] Response status code:200 is not in acceptable list of status codes
+
+----------------- Properties ------------------------------
+Endpoint: https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+Request Headers: SOAPAction : ""
+Connection : Keep-Alive
+User-Agent : Apache-HttpClient/4.5.5 (Java/16.0.2)
+Host : www.dataaccess.com
+Accept-Encoding : gzip,deflate
+Content-Length : 308
+Content-Type : text/xml;charset=UTF-8
+
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://www.dataaccess.com/webservicesserver/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <web:NumberToWords>
+         <web:ubiNum>15</web:ubiNum>
+      </web:NumberToWords>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+---------------- Response --------------------------
+Response Headers: Cache-Control : private, max-age=0
+Server : Server
+Vary : Accept-Encoding
+Web-Service : DataFlex 19.1
+#status# : HTTP/1.1 200 OK
+Date : Thu, 09 Nov 2023 08:45:08 GMT
+Content-Type : text/xml; charset=utf-8
+X-Powered-By : ASP.NET
+
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <m:NumberToWordsResponse xmlns:m="http://www.dataaccess.com/webservicesserver/">
+         <m:NumberToWordsResult>fifteen</m:NumberToWordsResult>
+      </m:NumberToWordsResponse>
+   </soap:Body>
+</soap:Envelope>

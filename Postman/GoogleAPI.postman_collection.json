@@ -1,0 +1,328 @@
+{
+	"info": {
+		"_postman_id": "2f9a3e45-0250-4d87-96d2-54433c871706",
+		"name": "GoogleAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30139961"
+	},
+	"item": [
+		{
+			"name": "addPlace",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"jsonData = pm.response.json();\r",
+							"const place_Id = jsonData.place_id;\r",
+							"pm.collectionVariables.set(\"Place_Id\", place_Id)\r",
+							"\r",
+							"pm.test(\"Response time is less than 1200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1200);\r",
+							"});\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Content-Type is present\", function () {\r",
+							"    pm.response.to.have.header(\"Content-Type\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"location\": {\r\n    \"lat\": -38.383494,\r\n    \"lng\": 33.427362\r\n  },\r\n  \"accuracy\": 40,\r\n  \"name\": \"Kanna House\",\r\n  \"phone_number\": \"(+91) 983 893 3937\",\r\n  \"address\": \"Kanna Colony, Kanna Street\",\r\n  \"types\": [\r\n    \"Kanna park\",\r\n    \"Kanna shop\"\r\n  ],\r\n  \"website\": \"http://Kanna.com\",\r\n  \"language\": \"Telugu-IN\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_uri}}/maps/api/place/add/json?key={{key}}",
+					"host": [
+						"{{base_uri}}"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"add",
+						"json"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "{{key}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getDetails",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const Schema = {\r",
+							"  \"type\": \"object\",\r",
+							"  \"properties\": {\r",
+							"    \"location\": {\r",
+							"      \"type\": \"object\",\r",
+							"      \"properties\": {\r",
+							"        \"latitude\": {\r",
+							"          \"type\": \"string\"\r",
+							"        },\r",
+							"        \"longitude\": {\r",
+							"          \"type\": \"string\"\r",
+							"        }\r",
+							"      },\r",
+							"      \"required\": [\r",
+							"        \"latitude\",\r",
+							"        \"longitude\"\r",
+							"      ]\r",
+							"    },\r",
+							"    \"accuracy\": {\r",
+							"      \"type\": \"string\"\r",
+							"    },\r",
+							"    \"name\": {\r",
+							"      \"type\": \"string\"\r",
+							"    },\r",
+							"    \"phone_number\": {\r",
+							"      \"type\": \"string\"\r",
+							"    },\r",
+							"    \"address\": {\r",
+							"      \"type\": \"string\"\r",
+							"    },\r",
+							"    \"types\": {\r",
+							"      \"type\": \"string\"\r",
+							"    },\r",
+							"    \"website\": {\r",
+							"      \"type\": \"string\"\r",
+							"    },\r",
+							"    \"language\": {\r",
+							"      \"type\": \"string\"\r",
+							"    }\r",
+							"  },\r",
+							"  \"required\": [\r",
+							"    \"location\",\r",
+							"    \"accuracy\",\r",
+							"    \"name\",\r",
+							"    \"phone_number\",\r",
+							"    \"address\",\r",
+							"    \"types\",\r",
+							"    \"website\",\r",
+							"    \"language\"\r",
+							"  ]\r",
+							"}\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 1200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1200);\r",
+							"});\r",
+							"pm.test(\"Content-Type is present with Value\", function () {\r",
+							"    pm.expect(pm.response.headers.get(\"Content-Type\")).to.eql(\"application/json;charset=UTF-8\");\r",
+							"});\r",
+							"pm.test(\"Validate the json response Scheme\", function()\r",
+							"{\r",
+							"    pm.response.to.have.jsonSchema(Schema)\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_uri}}/maps/api/place/get/json?key={{key}}&place_id={{Place_Id}}",
+					"host": [
+						"{{base_uri}}"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"get",
+						"json"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "place_id",
+							"value": "{{Place_Id}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateDetails",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"jsonData = pm.response.json();\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 1200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1200);\r",
+							"});\r",
+							"pm.test(\"Validation Status code is 200\",function()\r",
+							"{\r",
+							"    pm.expect(jsonData).have.property(\"msg\")\r",
+							"    pm.expect(jsonData.msg).to.eql(\"Address successfully updated\")\r",
+							"})\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"place_id\":\"{{Place_Id}}\",\r\n\"address\":\"70 Summer walks, USA\",\r\n\"key\":\"{{key}}\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_uri}}/maps/api/place/update/json?key={{key}}",
+					"host": [
+						"{{base_uri}}"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"update",
+						"json"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "{{key}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"jsonData = pm.response.json();\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 1200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1200);\r",
+							"});\r",
+							"pm.test(\"Validation the Msg\",function()\r",
+							"{\r",
+							"    pm.expect(jsonData).have.property(\"status\")\r",
+							"    pm.expect(jsonData.status).to.eql(\"OK\")\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"place_id\":\"{{Place_Id}}\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_uri}}/maps/api/place/delete/json?key={{key}}",
+					"host": [
+						"{{base_uri}}"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"delete",
+						"json"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "{{key}}"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "base_uri",
+			"value": "https://rahulshettyacademy.com",
+			"type": "string"
+		},
+		{
+			"key": "key",
+			"value": "qaclick123",
+			"type": "string"
+		},
+		{
+			"key": "Place_Id",
+			"value": "",
+			"type": "string"
+		}
+	]
+}

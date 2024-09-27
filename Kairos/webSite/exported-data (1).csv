@@ -1,0 +1,10 @@
+Title,Description,Action,Expected Result
+Validate Mobile Number Length,This test case verifies that the mobile number entered by the user is exactly 10 digits long.,Action: Enter a mobile number that is less than 10 digits in the mobile number field.,Expected Result: An error message should be displayed indicating that the mobile number is too short.
+,,Action: Enter a mobile number that is more than 10 digits in the mobile number field.,Expected Result: An error message should be displayed indicating that the mobile number is too long.
+,,Action: Enter a mobile number that is exactly 10 digits in the mobile number field.,"Expected Result: No error message is displayed,  and the user can proceed to the next step."
+Verify OTP Validation,This test case ensures that the user can only proceed with a valid OTP for the entered mobile number.,Action: Enter an invalid OTP for the mobile number.,Expected Result: An error message should be displayed indicating the OTP is invalid.
+,,Action: Enter a valid OTP for the mobile number.,"Expected Result: No error message is displayed,  and the user can proceed to the next step."
+Full Name Entry Validation,This test case checks that the user enters a valid full name during registration.,Action: Enter a full name using numbers or special characters.,Expected Result: An error message should be displayed indicating that the full name is invalid.
+,,Action: Enter a valid full name using alphabets.,"Expected Result: No error message is displayed,  and the user can proceed to the next step."
+Email ID Validation,This test case verifies that the user enters a valid email ID.,Action: Enter an email ID in an incorrect format.,Expected Result: An error message should be displayed indicating that the email ID is invalid.
+,,Action: Enter a valid email ID in the correct format.,"Expected Result: No error message is displayed,  and the user can proceed to the next step."

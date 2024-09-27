@@ -1,0 +1,14 @@
+create solution:-
+-----------------
+Name:- Goibibo_WebApplication_APT
+Description:- It's all about Demo purpose to use all the epics, stories, Features to generate the test case.
+CMDB Information URL:-
+https://www.goibibo.com
+Test environment URL:-
+https://www.goibibo.com
+Owner:-
+Select Solution type:- Custom
+Select Architecture Type:- Web
+Select LLM:- AzureGPT Capgemini-sandbox
+Select Embedding Model:- Embedding model for Capgemini-sandbox
+Select Data Model:- spreadsheet

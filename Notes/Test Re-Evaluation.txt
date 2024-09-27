@@ -1,0 +1,5 @@
+http://google.com/pet/voi2?name=durga&id=465
+
+http://google.com/student?id=1
+
+http://google.com/search?shirt=polo

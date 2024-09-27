@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="50f17d6d-80b0-400c-9377-b71e6bf3cb32" activeEnvironment="Default" name="RecreatingPostmanToSoapUI" resourceRoot="" soapui-version="5.7.1" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="19307767-d033-4be0-bbb3-5820c0c20e84" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://rahulshettyacademy.com" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>https://rahulshettyacademy.com</con:endpoint></con:endpoints><con:resource name="Addbook" path="/Library/Addbook.php" id="8e028ac1-2e1c-454e-9ddb-2ff723824251"><con:settings/><con:parameters/><con:method name="Addbook" id="f61a9f60-81f4-4c9c-936d-3577ccada524" method="POST"><con:settings/><con:parameters/><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:representation type="RESPONSE"><con:mediaType>application/json;charset=UTF-8</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:add="https://rahulshettyacademy.com/Library/Addbook.php">add:Response</con:element></con:representation><con:request name="addBook" id="80571c5d-9b20-44ca-b683-afebb4f34ca2" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request>{
+	"name":"postman",
+	"isbn":"RMdp",
+	"aisle":"224",
+	"author":"durgaprasad"
+}
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/Addbook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="GetBookByID" path="/Library/GetBook.php" id="ac64ed25-1cc8-4d56-a8c4-6e096f45e201"><con:settings/><con:parameters><con:parameter><con:name>ID</con:name><con:value/><con:style>QUERY</con:style><con:default/><con:description xsi:nil="true"/></con:parameter></con:parameters><con:method name="getBookID" id="4af263d1-4840-4cff-947c-23dd9d69af98" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json;charset=UTF-8</con:mediaType><con:status>200</con:status><con:params/><con:element>Response</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType>application/json; charset=UTF-8</con:mediaType><con:status>200</con:status><con:params/></con:representation><con:request name="getBook" id="9eb1205a-5e68-48ad-8819-0e81dbbe4a20" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="ID" value="RMdp224" xmlns="http://eviware.com/soapui/config"/></con:parameters><con:parameterOrder><con:entry>ID</con:entry></con:parameterOrder></con:request></con:method></con:resource><con:resource name="DeleteBook" path="/Library/DeleteBook.php" id="4f846591-158b-420c-a274-26b22bb9519e"><con:settings/><con:parameters/><con:method name="deleteBook" id="f17ea440-733c-4598-892c-d8adbc7630c2" method="POST"><con:settings/><con:parameters/><con:representation type="FAULT"><con:mediaType>application/json;charset=UTF-8</con:mediaType><con:status>404</con:status><con:params/><con:element xmlns:del="https://rahulshettyacademy.com/Library/DeleteBook.php">del:Fault</con:element></con:representation><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:request name="deleteBook" id="dd23707e-22a9-4649-9c67-934675b6117e" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://rahulshettyacademy.com</con:endpoint><con:request>{
+	"ID" : "a23h345122332"
+} 
+</con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:testSuite id="c3078f3c-7b6e-4dab-8800-b4ac68cfabb3" name="https://rahulshettyacademy.com TestSuite"><con:description>TestSuite generated for REST Service [https://rahulshettyacademy.com]</con:description><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="d1487035-48bc-45ec-9177-7cf0cae57505" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="Books" searchProperties="true"><con:settings/><con:testStep type="restrequest" name="Addbook" id="ff6aee74-763a-4ded-b3ed-a990de134ed6"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/Addbook.php" methodName="Addbook" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="Addbook" id="80571c5d-9b20-44ca-b683-afebb4f34ca2" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>${#TestSuite#base_url}</con:endpoint><con:request>{
+	"name":"postman",
+	"isbn":"RMdpf",
+	"aisle":"2244",
+	"author":"${#TestCase#author}"
+}
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/Addbook.php</con:originalUri><con:assertion type="Valid HTTP Status Codes" id="379f5f2f-034c-487e-b9c4-bdf1992a2d69" name="Valid HTTP Status Codes"><con:configuration><codes>200</codes></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="transfer" name="Property Transfer" id="c4f49008-bfc6-418e-a114-7a5b7d11803f"><con:settings/><con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false"><con:name>ID</con:name><con:sourceType>Response</con:sourceType><con:sourceStep>Addbook</con:sourceStep><con:targetType>id</con:targetType><con:targetStep>#TestSuite#</con:targetStep><con:type>JSONPATH</con:type><con:upgraded>true</con:upgraded></con:transfers></con:config></con:testStep><con:testStep type="restrequest" name="GetBookByID" id="712ab945-58b2-4cd9-90ac-fa6088cfb62c"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/GetBook.php" methodName="getBookID" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="GetBookByID" id="9eb1205a-5e68-48ad-8819-0e81dbbe4a20" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>${#TestSuite#base_url}</con:endpoint><con:request/><con:originalUri>https://rahulshettyacademy.com/Library/GetBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="ID" value="${#TestSuite#idl}" xmlns="http://eviware.com/soapui/config"/></con:parameters><con:parameterOrder><con:entry>ID</con:entry></con:parameterOrder></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="Groovy Script" id="ba2106e3-b105-4332-b0ac-adbce0722f5d"><con:settings/><con:config><script>import groovy.json.JsonSlurper
+
+ 
+
+def author= context.testCase.testSuite.testCases["Books"].getPropertyValue("author")
+log.info author
+def getresponse =testRunner.testCase.testSuite.testCases["Books"].testSteps["GetBookByID"].getPropertyValue("Response")
+
+ 
+
+def Json= new JsonSlurper().parseText(getresponse)
+log.info(Json[0].author)
+assert Json[0].author == author
+if (Json[0].author == author)
+{
+	log.info "pass"
+}
+else
+{	
+	log.info "fail"
+}
+
+//has context menuComposeParagraph</script></con:config></con:testStep><con:testStep type="restrequest" name="DeleteBook" id="5ab85572-4f80-42d7-a3f7-e785bdaf47ab"><con:settings/><con:config service="https://rahulshettyacademy.com" resourcePath="/Library/DeleteBook.php" methodName="deleteBook" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="DeleteBook" id="dd23707e-22a9-4649-9c67-934675b6117e" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>${#TestSuite#base_url}</con:endpoint><con:request>{
+	"ID" : "a23h345122332"
+} 
+</con:request><con:originalUri>https://rahulshettyacademy.com/Library/DeleteBook.php</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="StatusCodeValidations" id="6678a006-6a9d-46ff-aeae-e8d423ee5de4"><con:settings/><con:config><script>import com.eviware.soapui.support.XmlHolder
+import com.eviware.soapui.impl.wsdl.testcase.WsdlTestRunContext
+import groovy.json.JsonSlurper
+
+
+def response= messageExchange.response.responseContent
+def json = new JsonSlurper()
+def jsonParser = json.parseText(response)
+assert jsonParser.Msg == "successfully added"
+
+
+//to prin the out put we use log.info
+//log.info "Hi I am Durgaprasad"
+//
+//// Context variable is used to access and modify the properties of your TestCase
+////scope of context line in Testcase only
+//log.info context.expand ('${#TestCase#name}')
+//
+////To access / modify any property you have to come through its parent only
+////Project-->testSuite-->testCase-->testStep
+//testRunner.testCase.testSuite.testCases["getEmployeeDetails"].setPropertyValue("id","789")
+//log.info testRunner.testCase.testSuite.testCases["getEmployeeDetails"].getPropertyValue("id")
+//log.info testRunner.testCase.testSuite.testCases["addEmployee"].getPropertyValue("age")
+//log.info testRunner.testCase.getPropertyValue("Department")
+//testRunner.testCase.testSuite.testCases["getEmployeeDetails"].setPropertyValue("id","789")
+//
+//// to create abject
+//def project=testRunner.testCase.testSuite.project
+//project.getPropertyValue("gender")
+
+//import groovy.json.JsonSlurper
+//def response= messageExchange.response.responseContent
+//def json = new JsonSlurper()
+//def jsonParser = json.parseText(response)
+//
+//def placeID=jsonParser.place_id
+//log.info placeID
+//assert jsonParser.status == "OK"
+//
+//context.getTestCase().setPropertyValue("place_id",jsonParser.place_id)
+
+
+
+
+</script></con:config></con:testStep><con:properties><con:property><con:name>isbn</con:name><con:value/></con:property><con:property><con:name>author</con:name><con:value>Durgaprasad</con:value></con:property><con:property><con:name>book_name</con:name></con:property></con:properties></con:testCase><con:properties><con:property><con:name>base_url</con:name><con:value>https://rahulshettyacademy.com</con:value></con:property><con:property><con:name>book_id</con:name></con:property><con:property><con:name>id</con:name><con:value xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></con:property></con:properties></con:testSuite><con:properties><con:property><con:name>companyCode</con:name><con:value>RM</con:value></con:property></con:properties><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>

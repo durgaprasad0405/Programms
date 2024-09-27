@@ -1,0 +1,122 @@
+1. Print the multiplication table with 7
+
+number= 4
+for (let i=1; i<=10; i++ ) 
+{
+    product = number*i
+    console.log(number+" x "+i+" = "+product)
+}
+//----------------------------------------------------------------------------------------------------------------
+
+2. Calculate the sum of odd numbers greater than 10 and less than 30
+
+oddNumber1 = 33
+oddNumber2 = 13
+sum = oddNumber1+oddNumber2
+if (sum>10 && sum<30)
+{
+    console.log("The given odd "+sum+" number is in between 10 and 30.")
+}
+else
+{
+    console.log("The given odd "+sum+" number is not in between 10 and 30.")
+}
+//------------------------------------------------------------------------------------------------------------------
+
+3. Create a function that will convert from Fahrenheit to Celsius
+
+function celsiusToFahrenheit(celsius) {
+    let fahrenheit = (celsius * 9/5) + 32;
+    return fahrenheit;
+  }
+  
+  let celsiusValue = 25;
+  let fahrenheitValue = celsiusToFahrenheit(celsiusValue);
+  console.log(fahrenheitValue);
+
+
+4. Calculate the sum of numbers in an array of numbers
+
+console.log("*************Calculate the sum of numbers in an array of numbers*************")
+Array = [1,2,3,4,5,6]
+sum = 0
+for (i=0; i<Array.length; i++)
+{
+    sum = sum+Array[i]
+}
+console.log(sum)
+
+console.log("**********for loop in single line is declared in below**********")
+let total =Array.reduce((sum,Array)=>sum+Array,0)
+console.log(total)
+//-------------------------------------------------------------------------------------------------------------------------
+
+5. Create a function that receives an array of numbers and returns an array containing only the positive numbers
+
+function countNumbers(array, index, pos_count) 
+{
+	if (index < array.length)
+     {
+		if (array[index] > 0)
+        {
+			pos_count++;
+		}
+		return countNumbers(array, index + 1, pos_count);
+	}
+    else 
+    {
+		return { pos_count};
+	}
+}
+
+var array=[-8,10,23,44,-80,-15,44,-1]
+var counts = countNumbers(array, 0, 0);
+console.log("The positive numbers in an array is "+counts.pos_count)
+//----------------------------------------------------------------------------------------------------------------
+
+6. Create a function that will return a Boolean specifying if a number is prime
+
+
+7. Reverse an array
+
+Array = [1,2,3,4,5,6]
+console.log(Array)
+console.log(Array.reverse())
+//--------------------------------------------------------------------------------------------------------------------
+
+8. Reverse a string
+
+function reversestr(str)
+{
+    var newstr = ""
+    for (var i=str.length - 1; i>=0; i--)
+    {
+        newstr+=str[i]
+    }
+    return newstr
+}
+console.log(reversestr("kanna"))
+
+
+9. Create a function that will merge two arrays and return the result as a new array
+
+let newArray=function emp()
+{
+    let oldEmp=['amma', 'nana'];
+    const newEmp =['akka','nenu'];
+    const combine = oldEmp.concat(newEmp)
+    return combine;
+}
+console.log(newArray());
+
+
+10. Create a function that will return the number of words in a text
+
+function countWords(words)
+{
+   const array = words.split('');
+   console.log(array);
+   return array.filter(word => word !== '').length;
+
+}
+console.log(countWords("we r capgemini employee"));

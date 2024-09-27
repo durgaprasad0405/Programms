@@ -1,0 +1,9 @@
+{
+    "name": "payload_name",
+    "data": {
+        "year": payload_year,
+        "price": payload_price,
+        "CPU model": "payload_CPU_model",
+        "Hard disk size": "payload_Hard_disk _size"
+    }
+}
